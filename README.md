@@ -1,4 +1,4 @@
-# An Analysis of Homelessness in the Boston Area
+# Modeling Homelessness in the Boston Area
 ### By Omar Wahby, Katherine Grisanzio, Brent Ruttle, and Aashna Shah
 
 ### The predictors of homelessness that we analyzed were:
