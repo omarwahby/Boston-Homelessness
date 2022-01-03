@@ -2,22 +2,10 @@
 ### By Omar Wahby, Katherine Grisanzio, Brent Ruttle, and Aashna Shah
 ### *Final Data Science Project*
 
-Our project focused on predicting the value of owner-occupied homes in Boston in order to better understand the factors which determine the current level of homelessness in the Boston area.
+Our project focused on predicting the value of owner-occupied homes in Boston in order to better understand the factors which determine the current level of homelessness in the Boston area. Our methodology is detailed below:
 
-The factors we used to predict the Boston home prices, abbreviated in the data set as 'MEDV', were:
-
-1. CRIM - per capita crime rate by town
-2. ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
-3. INDUS - proportion of non-retail business acres per town.
-4. CHAS - Charles River dummy variable (1 if tract bounds river; 0 otherwise)
-5. NOX - nitric oxides concentration (parts per 10 million)
-6. RM - average number of rooms per dwelling
-7. AGE - proportion of owner-occupied units built prior to 1940
-8. DIS - weighted distances to five Boston employment centres
-9. RAD - index of accessibility to radial highways
-10. TAX - full-value property-tax rate per 10,000 dollars
-11. PTRATIO - pupil-teacher ratio by town
-12. B - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
-13. LSTAT - percent lower status of the population
+1. We queried the pre-curated dataset of Boston Housing Data derived from information collected by the U.S. Census Service concerning housing in the area of Boston MA. The Boston housing data was collected in 1978 and each of the 506 entries represent aggregated data 14 features for homes from various suburbs in Boston, Massachusetts.
+2. We performed an Exploratory Data Analysis on the dataset for US homelessness from 2007-2016 to understand general trends of homelessness for each state, and subsequently concentrated on analyzing homelessness in Boston using the Boston Housing dataset.
+3. Finally, we used an array of machine learning models from Python's Scikit-learn machine learning library to develop a model that could predict Boston housing prices with 91% accuracy. 
 
 Analyses were performed in Python. All code is available via our [GitHub repository](https://github.com/kbomar945/Boston-Homelessness).
