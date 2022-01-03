@@ -1,5 +1,6 @@
 # Modeling Homelessness in the Boston Area
 ### By Omar Wahby, Katherine Grisanzio, Brent Ruttle, and Aashna Shah
+### *Final Data Science Project*
 
 Our project focused on predicting the value of owner-occupied homes in Boston in order to better understand the factors which determine the current level of homelessness in the Boston area.
 
